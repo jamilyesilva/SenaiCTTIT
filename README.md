@@ -1,8 +1,9 @@
 1. Panorama Geral do Projeto
+   
 Este projeto tem como finalidade desenvolver uma landing page para o SENAI Centro de Tecnologia da Informação (CTTI). A página foi elaborada com o intuito de apresentar ao visitante a unidade, orientá-lo quanto à sua localização e esclarecer eventuais dúvidas. O design e a estrutura foram concebidos respeitando a identidade visual do SENAI.
 
 
-2. Estrutura da Página
+3. Estrutura da Página
 2.1 Documentação
 A seguir, uma descrição detalhada sobre os elementos que compõem a página:
 
