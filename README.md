@@ -53,4 +53,4 @@ Kaique Silva
 
 ---
 
-A página encontra-se disponível em:
+A página encontra-se disponível em: https://jamilyesilva.github.io/SenaiCTTIT/
