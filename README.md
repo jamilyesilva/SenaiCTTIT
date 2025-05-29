@@ -39,6 +39,7 @@ Bootstrap 5
 JavaScript
 
 4. Integrantes do Projeto
+   
 Thiago Martins de Freitas - Coordenador
 
 Arthur Augusto Oliveira Dias
